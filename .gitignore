@@ -5,8 +5,11 @@ dist
 .env
 .env.*
 **/.DS_Store
-**/.vscode
 **/.idea
 scripts/
 **/scripts/
 scripts/manual-notarize.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
