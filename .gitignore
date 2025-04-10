@@ -3,10 +3,11 @@ dist-electron
 release
 dist
 .env
+temp_auto_push.bat
 .env.*
 **/.DS_Store
-**/.vscode
 **/.idea
 scripts/
 **/scripts/
-scripts/manual-notarize.js
+scripts/manual-notarize.js.gitignore
+branch_structure.json
